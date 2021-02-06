@@ -1,0 +1,1 @@
+This is a very basic program showing the user what an array may look like
