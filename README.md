@@ -1,1 +1,1 @@
-# 3140-Lab-0
+# Smaple code of what an array looks like
